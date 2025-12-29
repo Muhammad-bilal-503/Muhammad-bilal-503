@@ -1,5 +1,17 @@
+<h1 align="center">Muhammad Bilal</h1>
+<h3 align="center">
+Web Developer | App Developer | AI | Photographer 📸
+</h3>
+v
+
 # 💫 About Me:
 Currently pursuing a Bachelor’s degree in Computer Science at the Institute of Space Technology KICSIT, Kahuta Campus I am building a strong foundation in programming, problem-solving, and software development. I am actively learning and practicing web and mobile app development, focusing on writing clean, efficient code and understanding core development concepts.<br><br>I have hands-on experience with C++, Python, and modern web technologies, and I am developing a growing interest in AI-powered applications and intelligent agents. My goal is to gradually apply my learning to real-world projects and strengthen my skills through continuous practice.<br><br>Alongside technology, I am passionate about photography, which helps me approach design and user experience with a creative and visual mindset. I enjoy combining creativity with logic to build meaningful and user-friendly applications.<br><br>My academic background includes pre-engineering studies at Punjab Group of Colleges and foundational computer science education from Karachi Public School and College Kahuta.<br><br>I am always open to learning opportunities, beginner-friendly collaborations, and connecting with developers who share similar interests.
+
+## 🔭 Currently Working Onv
+
+- Web & Mobile App Development Projects  
+- Learning AI & Machine Learning fundamentals  
+- Improving backend and database design skills
 
 
 ## 🌐 Socials:
