@@ -28,6 +28,6 @@ Currently pursuing a Bachelor’s degree in Computer Science at the Institute of
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-bilal-503&theme=dark&hide_border=false&layout=compact&cache_seconds=86400)
 ---
-![](https://count.getloli.com/get/@Muhammad-bilal-503)
+![](https://komarev.com/ghpvc/?username=Muhammad-bilal-503&label=Profile%20views&color=0e75b6&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
