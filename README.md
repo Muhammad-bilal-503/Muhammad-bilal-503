@@ -1,33 +1,131 @@
-<h1 align="center">Muhammad Bilal</h1>
-<h3 align="center">
-Web Developer | App Developer | AI | Photographer 📸
-</h3>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhammad%20Bilal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Web%20Developer%20%7C%20App%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Photographer&descSize=16&descAlignY=58" width="100%" alt="header"/>
 
-# 💫 About Me:
-Currently pursuing a Bachelor’s degree in Computer Science at the Institute of Space Technology KICSIT, Kahuta Campus I am building a strong foundation in programming, problem-solving, and software development. I am actively learning and practicing web and mobile app development, focusing on writing clean, efficient code and understanding core development concepts.<br><br>I have hands-on experience with C++, Python, and modern web technologies, and I am developing a growing interest in AI-powered applications and intelligent agents. My goal is to gradually apply my learning to real-world projects and strengthen my skills through continuous practice.<br><br>Alongside technology, I am passionate about photography, which helps me approach design and user experience with a creative and visual mindset. I enjoy combining creativity with logic to build meaningful and user-friendly applications.<br><br>My academic background includes pre-engineering studies at Punjab Group of Colleges and foundational computer science education from Karachi Public School and College Kahuta.<br><br>I am always open to learning opportunities, beginner-friendly collaborations, and connecting with developers who share similar interests.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%8E%93;Building+Web+%26+Mobile+Apps+%F0%9F%9A%80;Exploring+AI+%26+Intelligent+Agents+%F0%9F%A4%96;Educational+Content+Creator+%F0%9F%8E%A5;Photographer+%F0%9F%93%B8" alt="Typing SVG" />
+</a>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Muhammad-bilal-503&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views"/>
+<img src="https://img.shields.io/github/followers/Muhammad-bilal-503?style=for-the-badge&logo=github&color=121011" alt="followers"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Computer Science student** at the **Institute of Space Technology (KICSIT), Kahuta Campus**, passionate about building clean, efficient and user-friendly software. I work across **web and mobile development**, and I'm increasingly focused on **AI-powered applications and intelligent agents**.
+
+Photography shapes the way I approach design and UX: I like combining **creativity with logic** to build products that feel as good as they work. I also run an educational channel on **YouTube** covering study and science topics.
+
+```js
+const bilal = {
+  name: "Muhammad Bilal",
+  role: ["Web Developer", "App Developer", "AI Enthusiast", "Photographer"],
+  education: "BS Computer Science @ IST KICSIT, Kahuta",
+  languages: ["C++", "Python", "JavaScript", "Java", "Kotlin"],
+  currentlyLearning: ["AI & Machine Learning", "Backend & Database Design"],
+  lookingFor: "Learning opportunities & beginner-friendly collaborations",
+};
+```
+
+---
 
 ## 🔭 Currently Working On
 
-- Web & Mobile App Development Projects  
-- Learning AI & Machine Learning fundamentals  
-- Improving backend and database design skills
+- 🌐 Web & mobile app development projects
+- 🧠 Learning AI & Machine Learning fundamentals
+- 🗄️ Improving backend and database design skills
+- 🎥 Creating educational content for students
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bilalofficial21) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bilalofficial_21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-bilal-aa5364344) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bilalofficial_21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mughalbillal0012345@gmail.com) 
-
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Muhammad-bilal-503&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Muhammad-bilal-503&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-bilal-503&theme=dark&hide_border=false&layout=compact&cache_seconds=86400)
 ---
-![](https://komarev.com/ghpvc/?username=Muhammad-bilal-503&label=Profile%20views&color=0e75b6&style=flat)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,py,java,kotlin,js,html,css,powershell,latex&theme=dark" alt="languages"/>
+</p>
+
+**Frameworks & Libraries**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,svelte,nodejs,tailwind,bootstrap,wordpress&theme=dark" alt="frameworks"/>
+</p>
+
+**Databases & Cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,sqlite&theme=dark" alt="databases"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="oracle"/>
+</p>
+
+**AI / ML & Data**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,numpy,pandas,anaconda&theme=dark" alt="ai"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="keras"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="sklearn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" alt="matplotlib"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="powerbi"/>
+</p>
+
+**Tools & Design**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,cmake,figma&theme=dark" alt="tools"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="canva"/>
+  <img src="https://img.shields.io/badge/Cisco-049fd9?style=flat-square&logo=cisco&logoColor=white" alt="cisco"/>
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="opengl"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Muhammad-bilal-503&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-bilal-503&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Muhammad-bilal-503&theme=tokyonight&hide_border=true" alt="streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-bilal-503&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophies"/>
+</div>
+
+---
+
+## 🎥 Content & Socials
+
+I share educational content on study and science topics. Come say hi!
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@bilalofficial_21)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bilalofficial_21)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bilalofficial21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-bilal-aa5364344)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mughalbillal0012345@gmail.com)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to **learning opportunities, collaborations, and conversations** with developers who share similar interests. If you have an idea, a project, or just want to talk tech, feel free to reach out!
+
+<div align="center">
+
+> *"Code with logic, design with creativity."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
