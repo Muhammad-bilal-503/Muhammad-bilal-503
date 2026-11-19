@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:161b22,100:1f6feb&height=230&section=header&text=Muhammad%20Bilal&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Developer%20%C2%B7%20AI%20Agent%20Security%20%C2%B7%20Pakistan&descSize=17&descAlignY=60&descColor=9ecbff" width="100%" alt="Muhammad Bilal - Full-Stack and AI Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,100:1f6feb&height=220&section=header&text=Muhammad%20Bilal&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20and%20AI%20Developer%20-%20AI%20Agent%20Security&descSize=18&descAlignY=62" width="100%" alt="Muhammad Bilal - Full-Stack and AI Developer"/>
 
 <div align="center">
 
@@ -79,42 +79,66 @@ AI agents now read documents, query databases, call APIs and send emails, which 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,cpp,js,java,kotlin,html,css,powershell,latex&theme=dark" alt="languages"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" alt="py"/>
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="cpp"/>
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="js"/>
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="ts"/>
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="java"/>
+  <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="48" height="48" alt="kotlin"/>
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="html"/>
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="css"/>
+  <img src="https://skillicons.dev/icons?i=powershell&theme=dark" width="48" height="48" alt="powershell"/>
+  <img src="https://skillicons.dev/icons?i=latex&theme=dark" width="48" height="48" alt="latex"/>
+</p>
 
 **Frameworks & Libraries**
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
-<img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="svelte"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="fastapi"/>
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="nextjs"/>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="react"/>
+  <img src="https://skillicons.dev/icons?i=svelte&theme=dark" width="48" height="48" alt="svelte"/>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="nodejs"/>
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="tailwind"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" height="48" alt="bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" width="48" height="48" alt="wordpress"/>
+</p>
 
-**AI / ML & Agents**
+**AI / ML & Data**
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="keras"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="sklearn"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="ollama"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" height="48" alt="tensorflow"/>
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" height="48" alt="pytorch"/>
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" height="48" alt="sklearn"/>
+  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48" height="48" alt="opencv"/>
+  <img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="48" height="48" alt="numpy"/>
+  <img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="48" height="48" alt="pandas"/>
+</p>
 
 **Databases & DevOps**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase,redis,docker,git,github,githubactions&theme=dark" alt="databases and devops"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="postgres"/>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="mysql"/>
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="mongodb"/>
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" height="48" alt="sqlite"/>
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" height="48" alt="firebase"/>
+  <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" height="48" alt="redis"/>
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="docker"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="git"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="github"/>
+  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48" alt="githubactions"/>
+</p>
 
 **Design & Tools**
 
-<img src="https://skillicons.dev/icons?i=figma,cmake&theme=dark" alt="design tools"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="canva"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerbi"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="figma"/>
+  <img src="https://skillicons.dev/icons?i=cmake&theme=dark" width="48" height="48" alt="cmake"/>
+</p>
+
+<sub>Also working with: LangChain · CrewAI · AutoGen · LlamaIndex · Ollama · Keras · Oracle · Power BI · Canva</sub>
 
 ---
 
@@ -144,4 +168,4 @@ Muhammad Bilal · Full-Stack Developer · AI Developer · Software Engineer · P
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:0d1117&height=6&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="footer"/>
