@@ -21,16 +21,14 @@ I'm a **Computer Science student** at the **Institute of Space Technology (KICSI
 
 Photography shapes the way I approach design and UX: I like combining **creativity with logic** to build products that feel as good as they work. I also run an educational channel on **YouTube** covering study and science topics.
 
-```js
-const bilal = {
-  name: "Muhammad Bilal",
-  role: ["Web Developer", "App Developer", "AI Enthusiast", "Photographer"],
-  education: "BS Computer Science @ IST KICSIT, Kahuta",
-  languages: ["C++", "Python", "JavaScript", "Java", "Kotlin"],
-  currentlyLearning: ["AI & Machine Learning", "Backend & Database Design"],
-  lookingFor: "Learning opportunities & beginner-friendly collaborations",
-};
-```
+| | |
+|---|---|
+| 🎓 **Education** | BS Computer Science @ IST KICSIT, Kahuta Campus |
+| 💼 **Focus** | Web Development, App Development, AI Applications |
+| 💻 **Core Languages** | C++, Python, JavaScript, Java, Kotlin |
+| 🌱 **Learning** | AI & Machine Learning, Backend & Database Design |
+| 🎥 **Creator** | Educational content on study & science topics |
+| 🤝 **Open To** | Learning opportunities & beginner-friendly collaborations |
 
 ---
 
@@ -54,7 +52,12 @@ const bilal = {
 **Frameworks & Libraries**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,svelte,nodejs,tailwind,bootstrap,wordpress&theme=dark" alt="frameworks"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="svelte"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress"/>
 </p>
 
 **Databases & Cloud**
@@ -67,11 +70,16 @@ const bilal = {
 **AI / ML & Data**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,numpy,pandas,anaconda&theme=dark" alt="ai"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="keras"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="sklearn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" alt="matplotlib"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="powerbi"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="keras"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="sklearn"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="matplotlib"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="anaconda"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerbi"/>
 </p>
 
 **Tools & Design**
